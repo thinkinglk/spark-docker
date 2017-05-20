@@ -1,4 +1,4 @@
-FROM centos:7.3.1611
+FROM centos:7
 
 ARG SPARK_URI=https://archive.apache.org/dist/spark/spark-2.1.0/spark-2.1.0-bin-hadoop2.7.tgz
 
