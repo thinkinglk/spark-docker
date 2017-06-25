@@ -13,3 +13,5 @@ Once the cluster is up and running, you can connect to it from the driver machin
 ```bash
 spark-shell --master spark://localhost:7077
 ```
+
+Spark master web UI is available at http://localhost:8080.
